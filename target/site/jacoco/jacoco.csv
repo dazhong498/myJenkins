@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+SpringTestDemo,com.example.demo.service,EmployeeServiceImpl,0,8,0,0,0,2,0,2,0,2
+SpringTestDemo,com.example.demo.controller,EmployeeController,0,8,0,0,0,2,0,2,0,2
+SpringTestDemo,com.example.demo,SpringTestDemoApplication,5,3,0,0,2,1,1,1,1,1
+SpringTestDemo,com.example.demo.dto,Employee,0,17,0,0,0,7,0,5,0,5

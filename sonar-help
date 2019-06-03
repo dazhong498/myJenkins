@@ -1,0 +1,8 @@
+payalbnsl-github
+
+
+mvn sonar:sonar \
+  -Dsonar.projectKey=payalbnsl_SpringUnitTestDemo \
+  -Dsonar.organization=payalbnsl-github \
+  -Dsonar.host.url=https://sonarcloud.io \
+  -Dsonar.login=cd20be1d60135f3ced6488d65a652a8d3f8497a2

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.8.0" timestamp="2019-05-04T15:50:52.230">
+<file name="C:\Users\payal\Downloads\SpringUnitTestDemo-master\src\main\java\com\example\demo\dto\Employee.java">
+<violation beginline="16" endline="16" begincolumn="18" endcolumn="19" rule="ShortVariable" ruleset="Code Style" package="com.example.demo.dto" class="Employee" variable="id" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_codestyle.html#shortvariable" priority="3">
+Avoid variables with short names like id
+</violation>
+<violation beginline="25" endline="25" begincolumn="32" endcolumn="33" rule="ShortVariable" ruleset="Code Style" package="com.example.demo.dto" class="Employee" method="setId" variable="id" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_codestyle.html#shortvariable" priority="3">
+Avoid variables with short names like id
+</violation>
+</file>
+</pmd>
